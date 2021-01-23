@@ -5,5 +5,4 @@
 
 ### Playground:
 - Laravel
-- HTML & CSS
-- Javascript (also jQuery)
+- Javascript
