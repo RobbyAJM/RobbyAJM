@@ -2,6 +2,7 @@
 
 ### Roles:
 - Web Developer Freelance
+- Backend Engineer at Veripay
 
 ### Playground:
 - Laravel
