@@ -2,9 +2,11 @@
 
 ### Roles:
 - Student at Pamulang University
-- Backend Engineer at Veripay
-- Web Developer Freelance
+- CTO at Axiestant
+- Software Engineer at Telkomsel Inhouse Development (under Immobi contracts)
 
 ### Playground:
 - Laravel
-- Javascript
+- Node.js
+- Autohotkey
+- Golang
