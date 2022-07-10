@@ -2,11 +2,11 @@
 
 ### Roles:
 - Student at Pamulang University
-- CTO at Axiestant
-- Software Engineer at Telkomsel Inhouse Development (under Immobi contracts)
+- Software Engineer at Telkomsel Inhouse Team (under PT Immobi contracts)
 
 ### Playground:
 - Laravel
 - Node.js
-- Autohotkey
 - Golang
+- Autohotkey
+- Any other programming languages or libraries that looks fun
