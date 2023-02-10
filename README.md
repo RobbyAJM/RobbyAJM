@@ -2,11 +2,10 @@
 
 ### Roles:
 - Student at Pamulang University
-- Software Engineer at Telkomsel Inhouse Team (under PT Immobi contracts)
+- Backend Developer at MIFX
 
 ### Playground:
 - Laravel
 - Node.js
-- Golang
 - Autohotkey
 - Any other programming languages or libraries that looks fun
